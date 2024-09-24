@@ -1,6 +1,10 @@
-# Project Title
+# Real-Time Text Analysis and String Replacement
 
-A brief description of what this project does and who it's for.
+This project is designed to provide users with real-time text analysis. The app features a textarea where users can input text and receive immediate feedback on various statistics. Key functionalities include:
+
+- **Unique Word Count**: Displays the number of unique words in the text.
+- **Character Count**: Shows the total number of characters, excluding spaces and punctuation.
+- **Dynamic String Replacement**: Allows users to replace specific strings within the text dynamically.
 
 ## Table of Contents
 
@@ -9,9 +13,8 @@ A brief description of what this project does and who it's for.
   - Prerequisites
   - Installation
   - Running the Project
-  - Contributing
-  - License
-  - Contact
+  - Must Have Features
+  - Bonus Features
 
 ## Prerequisites
 
