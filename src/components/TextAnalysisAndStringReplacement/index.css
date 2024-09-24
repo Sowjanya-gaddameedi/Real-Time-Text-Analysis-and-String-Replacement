@@ -77,7 +77,8 @@ p{
     margin-top: 20px;
 }
 span{
-    background-color: #feff00
+    background-color: #feff00;
+    margin: 0px 10px;
 }
 
 @media screen and (min-width:768px){

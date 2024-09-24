@@ -38,7 +38,7 @@ const TextAnalysisAndStringReplacement = () => {
 
     const replaceWordsInSentence = event => {
         event.preventDefault()
-        const updatedString = textInput.replaceAll(searchStringInput,`<span>${replaceStringInput}</span>`)
+        const updatedString = textInput.replaceAll(searchStringInput,`<span>${" "}${replaceStringInput}${" "}</span>`)
         setReplacedString(updatedString)
     }
     
